@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "BAHUBALI",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+      "description": "Mast",
+      "director": "S. S. Rajamouli",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "KGF CHAPTER-1",
+      "image": "../images/KGF1.jpg",
+      "description": "KGF CHAPTER:1 is a great movie, You must watch it",
+      "director": "PRASHANTH 222",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "RRR",
+      "image": "../images/RRR.jpg",
+      "description": "RRR is a great movie, You must watch it",
+      "director": "RAJAMOLI",
+      "rating": 5
+    },
+    {
+      "title": "AVENGERS AGE OF ULTRON",
+      "description": "GOOD MOVIE ",
+      "director": "MARVEL",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6fdsge3amjdHSVkRXggwforRi5g.jpg",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "title": "AVENGERS INFINITY WARS",
+      "description": "GAJAB MOVIE, MAJJA AAI GAI",
+      "director": "MARVEL",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bxfCEo5a6t6gxUR9EjJLlqCe73i.jpg",
+      "rating": 5,
+      "id": 5
+    },
+    {
+      "title": "AVENGERS END GAME",
+      "description": "EMOTIONAL MOVIE",
+      "director": "MARVEL",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fTFRY6RJTpwkrYybwj4Wdf5nfgn.jpg",
+      "rating": 5,
+      "id": 6
+    },
+    {
+      "title": "DRISHYAM",
+      "description": "DRISHYAMMMMMMMMMMMMM",
+      "director": "AJAY DEVGAN",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JuhNPPgr7CkPDAQHsi5BS3sRBC.jpg",
+      "rating": 5,
+      "id": 7
+    },
+    {
+      "title": "DRISHYAM 2",
+      "description": "DRISHYAMMMMMM 2",
+      "director": "AJAY DEVGAN",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u2xGxHpmb8xaTphaeWsqjYAwU05.jpg",
+      "rating": 5,
+      "id": 8
+    },
+    {
+      "title": "TUBELIGHT",
+      "description": "MOVIE DESCRIPTION",
+      "director": "KABIR KHAN",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/04/Tubelight_Poster.jpg",
+      "rating": 1,
+      "id": 9
+    }
+  ]
+}
